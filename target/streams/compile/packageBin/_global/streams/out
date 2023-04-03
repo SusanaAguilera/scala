@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	curso[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/curso[0m
+[0m[[0m[0mdebug[0m] [0m[0m	curso/Principal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/curso/Principal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	curso/Alumno.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/curso/Alumno.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	curso/Principal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/curso/Principal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/susanaaguilera/Documents/Practice/scala/scala-practice/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
